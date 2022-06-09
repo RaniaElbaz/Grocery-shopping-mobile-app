@@ -1,0 +1,88 @@
+{
+    "fruits" : [
+        {
+            "img": "uri: https://fruiticious.com.au/wp-content/uploads/2017/04/ad1-1.jpg",
+            "banners" : [
+                {
+                    "img": "require('../assets/applebanner.png')"
+                },
+                {
+                    "img": "require('../assets/applebanner.png')"
+                },
+                {
+                    "img": "require('../assets/applebanner.png')"
+                }
+            ],
+            "name" : "Natural Red Apple",
+            "quantity" : "1kg, Price",
+            "number" : 1,
+            "price" : "$4.99",
+            "rate" : 3,
+            "nutrition" : "100gr",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae leo in ex ullamcorper ullamcorper. Nullam quis vulputate tellus. Ut porttitor lectus ut turpis venenatis"
+        },
+        {
+            "img": "require('../assets/banana.png')",
+            "banners" : [
+                {
+                    "img": "require('../assets/applebanner.png')"
+                },
+                {
+                    "img": "require('../assets/applebanner.png')"
+                },
+                {
+                    "img": "require('../assets/applebanner.png')"
+                }
+            ],
+            "name" : "Bananas",
+            "quantity" : "1kg, Price",
+            "number" : 1,
+            "price" : "$4.99",
+            "rate" : 3,
+            "nutrition" : "100gr",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae leo in ex ullamcorper ullamcorper. Nullam quis vulputate tellus. Ut porttitor lectus ut turpis venenatis"
+        },
+        {
+            "img": "require('../assets/ginger.png')",
+            "banners" : [
+                {
+                    "img": "require('../assets/applebanner.png')"
+                },
+                {
+                    "img": "require('../assets/applebanner.png')"
+                },
+                {
+                    "img": "require('../assets/applebanner.png')"
+                }
+            ],
+            "name" : "Ginger",
+            "quantity" : "1kg, Price",
+            "number" : 1,
+            "price" : "$4.99",
+            "rate" : 3,
+            "nutrition" : "100gr",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae leo in ex ullamcorper ullamcorper. Nullam quis vulputate tellus. Ut porttitor lectus ut turpis venenatis"
+        },
+        {
+            "img": "require('../assets/pepper.png')",
+            "banners" : [
+                {
+                    "img": "require('../assets/applebanner.png')"
+                },
+                {
+                    "img": "require('../assets/applebanner.png')"
+                },
+                {
+                    "img": "require('../assets/applebanner.png')"
+                }
+            ],
+            "name" : "Pepper",
+            "quantity" : "1kg, Price",
+            "number" : 1,
+            "price" : "$4.99",
+            "rate" : 3,
+            "nutrition" : "100gr",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae leo in ex ullamcorper ullamcorper. Nullam quis vulputate tellus. Ut porttitor lectus ut turpis venenatis"
+        }
+    ]   
+}
